@@ -1,4 +1,4 @@
-# UPG Digital skills Bootcamp
+# Youth Hub Kano Digital skills Bootcamp
 
  In this repository, you will find learning materials and resources to help you become proficient in using Microsoft Office applications, specifically Microsoft Word and Microsoft Excel. These skills will be valuable for your thesis preparation and basic data analysis tasks.
 
