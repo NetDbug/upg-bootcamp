@@ -2,7 +2,7 @@
 
  In this repository, you will find learning materials and resources to help you become proficient in using Microsoft Office applications, specifically Microsoft Word and Microsoft Excel. These skills will be valuable for your thesis preparation and basic data analysis tasks.
 
-## Microsoft Word Training
+## [Microsoft Word Training](word.md)
 
 - [Getting Started with Word](#placeholder-word-getting-started): Learn the basics of Word, including creating and saving documents, understanding the interface, and using the ribbon and toolbars.
 - [Formatting Basics](#placeholder-word-formatting-basics): Explore text formatting, paragraph formatting, and page setup to make your thesis look professional.
@@ -10,7 +10,7 @@
 - [Table of Contents and Navigation](#placeholder-word-table-of-contents): Learn how to generate an automatic table of contents and use headings for easy document navigation.
 - [Citations and Bibliography](#placeholder-word-citations-and-bibliography): Manage your citations and references efficiently using built-in tools or add-ins.
 
-## Microsoft Excel Training
+## [Microsoft Excel Training](excel.md)
 
 - [Introduction to Excel](#placeholder-excel-introduction-to-excel): Get started with Excel, learn about workbooks, worksheets, and basic data entry.
 - [Formatting and Cell Operations](#placeholder-excel-formatting-and-cell-operations): Explore text and number formatting, along with basic cell operations.
