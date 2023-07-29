@@ -20,8 +20,3 @@
 - [Data Analysis with PivotTables](#placeholder-excel-pivot-tables): Analyze and summarize data using PivotTables and PivotCharts.
 - [Data Analysis with SUMIF and COUNTIF](#placeholder-excel-sumif-and-countif): Perform conditional calculations using SUMIF and COUNTIF functions.
 
-## How to Use This Repository
-
-Each section contains detailed guides, examples, and exercises to help you grasp the concepts effectively. Feel free to follow the links above (replace "#placeholder-xxx" with actual links) and explore the topics that interest you the most. We encourage you to practice and experiment with the applications to enhance your skills.
-
-If you have any questions or need further assistance, don't hesitate to reach out to the instructors or your peers. Happy learning, and best of luck with your thesis preparation and data analysis tasks!
